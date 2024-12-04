@@ -1,4 +1,11 @@
-# PROJECTS
+# Portfolio 🖥️
+Welcome to my portfolio! Here you'll find a collection of projects that showcase my skills and experience in web development. The projects include various web applications that demonstrate my proficiency in front-end technologies, APIs, and interactive user interfaces. Feel free to explore the projects below to learn more about my work!
+
+For each project, you can find more detailed information and live demos by following the links.
+
+>⚠️ Please note that some of the applications may take a bit longer to load initially—the app server might spin down due to inactivity, causing delays of up to 50 seconds for initial requests. Your patience is appreciated!
+
+>⚠️ Additionally, one of the projects, eCommerce Application, was initially developed using the Commercetools platform. However, due to the expiration of the free trial period, direct access to Commercetools features is currently unavailable.
 
 <div style="height: 4px; background-color: #00FF77; margin: 20px 0; width: 100%;"></div>
 
