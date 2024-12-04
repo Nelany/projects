@@ -3,9 +3,12 @@ Welcome to my portfolio! Here you'll find a collection of projects that showcase
 
 For each project, you can find more detailed information and live demos by following the links.
 
->⚠️ Please note that some of the applications may take a bit longer to load initially—the app server might spin down due to inactivity, causing delays of up to 50 seconds for initial requests. Your patience is appreciated!
 
->⚠️ Additionally, one of the projects, eCommerce Application, was initially developed using the Commercetools platform. However, due to the expiration of the free trial period, direct access to Commercetools features is currently unavailable.
+
+>⚠️ Please note:
+>* Some of the applications may take a bit longer to load initially—the app server might spin down due to inactivity, causing delays of up to 50 seconds for initial requests. Your patience is appreciated!
+>* Additionally, one of the projects, eCommerce Application, was initially developed using the Commercetools platform. However, due to the expiration of the free trial period, direct access to Commercetools features is currently unavailable.
+
 
 <div style="height: 4px; background-color: #00FF77; margin: 20px 0; width: 100%;"></div>
 
@@ -225,3 +228,24 @@ The snake can be controlled with the keyboard. Points are awarded for each piece
 
 ### Screenshot:
 <img src="https://github.com/user-attachments/assets/efb3a7a2-a718-4b63-8b48-d277e075873f" alt="Screenshot" style="height: 300px; width: auto;">
+
+
+<div style="height: 4px; background-color: #00FF77; margin: 20px 0; width: 100%;"></div>
+
+# ✅ CSS Slider 🎭 ✅
+<div style="height: 4px; background-color: #00FF77; margin: 20px 0; width: 100%;"></div>
+
+This project is a CSS-based image slider with animated transitions and captions, created using pure HTML and CSS, without JavaScript or external libraries. The slider adapts to both desktop and mobile layouts, featuring intuitive controls with interactive hover and active states.
+
+
+### Technologies:
+- HTML
+- CSS
+
+
+### LINK: [CSS Slider](https://github.com/Nelany/cssMemeSlider/tree/main)
+
+### DEPLOY LINK: [CSS Slider deploy](https://nelany.github.io/cssMemeSlider/cssMemeSlider/index.html)
+
+### Screenshot:
+![image](https://github.com/user-attachments/assets/b09af3bd-908f-4787-95d3-207d5617a060)
